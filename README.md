@@ -1,2 +1,2 @@
-# frege-hoogle-database
+# frege-hoogle-database (Work in progress)
 Hoogle database for Frege
